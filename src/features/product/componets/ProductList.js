@@ -262,14 +262,7 @@ export default function ProductList() {
   const handleSort = (e, option) => {
     //e.preventDefault();
 
-    let newFilter={...filter, _sort:`+${option.sort}`}
-    if(option.order=="desc")
-    {
-      newFilter = { ...filter, _sort:`-${option.sort}`};
-    }
-    else{
-      newFilter = { ...filter, _sort:`+${option.sort}`};
-    }
+    let newFilter={...filter, _sort:option.sort,_option:option.order}
     setFilter(newFilter);
     console.log(newFilter)
 
