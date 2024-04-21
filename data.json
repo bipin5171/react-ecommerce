@@ -1831,7 +1831,7 @@
       "stock": 133,
       "brand": "YIOSI",
       "category": "lighting",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.XmHlH9-Cwr_42_ktG4JCRgHaIT&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
       "images": [
         "https://i.dummyjson.com/data/products/100/1.jpg",
         "https://i.dummyjson.com/data/products/100/2.jpg",
@@ -1844,984 +1844,494 @@
     {
       "value": "Apple",
       "label": "Apple",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "6053"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Samsung",
       "label": "Samsung",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "90e7"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "OPPO",
       "label": "OPPO",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "860b"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Huawei",
       "label": "Huawei",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "7980"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Microsoft Surface",
       "label": "Microsoft Surface",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "fa67"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Infinix",
       "label": "Infinix",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "c533"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "HP Pavilion",
       "label": "HP Pavilion",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "bf02"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Impression of Acqua Di Gio",
       "label": "Impression of Acqua Di Gio",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8c79"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Royal_Mirage",
       "label": "Royal_Mirage",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "26b7"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Fog Scent Xpressio",
       "label": "Fog Scent Xpressio",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "596e"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Al Munakh",
       "label": "Al Munakh",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "9872"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Lord - Al-Rehab",
       "label": "Lord   Al Rehab",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "741f"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "L'Oreal Paris",
       "label": "L'Oreal Paris",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "c2c7"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Hemani Tea",
       "label": "Hemani Tea",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "b160"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Dermive",
       "label": "Dermive",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "ccab"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "ROREC White Rice",
       "label": "ROREC White Rice",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "bb04"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Fair & Clear",
       "label": "Fair & Clear",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d2d3"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Saaf & Khaas",
       "label": "Saaf & Khaas",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "c9c2"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Bake Parlor Big",
       "label": "Bake Parlor Big",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "5631"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Baking Food Items",
       "label": "Baking Food Items",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "aba8"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "fauji",
       "label": "fauji",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "a25d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Dry Rose",
       "label": "Dry Rose",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "fab7"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Boho Decor",
       "label": "Boho Decor",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "1388"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Flying Wooden",
       "label": "Flying Wooden",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "f0f6"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "LED Lights",
       "label": "LED Lights",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8302"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "luxury palace",
       "label": "luxury palace",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "3575"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Golden",
       "label": "Golden",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8d70"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Furniture Bed Set",
       "label": "Furniture Bed Set",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "c521"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Ratttan Outdoor",
       "label": "Ratttan Outdoor",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "a0d9"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Kitchen Shelf",
       "label": "Kitchen Shelf",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "5c26"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Multi Purpose",
       "label": "Multi Purpose",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "269f"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "AmnaMart",
       "label": "AmnaMart",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "9d63"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Professional Wear",
       "label": "Professional Wear",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "11ec"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Soft Cotton",
       "label": "Soft Cotton",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "08cd"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Top Sweater",
       "label": "Top Sweater",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "9ebb"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "RED MICKY MOUSE..",
       "label": "RED MICKY MOUSE..",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "277e"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Digital Printed",
       "label": "Digital Printed",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "e234"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Ghazi Fabric",
       "label": "Ghazi Fabric",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d754"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "IELGY",
       "label": "IELGY",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "7fb3"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "IELGY fashion",
       "label": "IELGY fashion",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "7386"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Synthetic Leather",
       "label": "Synthetic Leather",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4305"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Sandals Flip Flops",
       "label": "Sandals Flip Flops",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "af47"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Maasai Sandals",
       "label": "Maasai Sandals",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "2de5"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Arrivals Genuine",
       "label": "Arrivals Genuine",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d280"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Vintage Apparel",
       "label": "Vintage Apparel",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "6057"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "FREE FIRE",
       "label": "FREE FIRE",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "0bf2"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "The Warehouse",
       "label": "The Warehouse",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "9649"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Sneakers",
       "label": "Sneakers",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "a033"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Rubber",
       "label": "Rubber",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "bc3f"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Naviforce",
       "label": "Naviforce",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "cf68"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "SKMEI 9117",
       "label": "SKMEI 9117",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "830e"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Strap Skeleton",
       "label": "Strap Skeleton",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "f986"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Stainless",
       "label": "Stainless",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "697a"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Eastern Watches",
       "label": "Eastern Watches",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8626"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Luxury Digital",
       "label": "Luxury Digital",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "0c0a"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Watch Pearls",
       "label": "Watch Pearls",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "5434"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Bracelet",
       "label": "Bracelet",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d223"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "LouisWill",
       "label": "LouisWill",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "b0db"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Copenhagen Luxe",
       "label": "Copenhagen Luxe",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "063d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Steal Frame",
       "label": "Steal Frame",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4a1d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Darojay",
       "label": "Darojay",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "45fb"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Fashion Jewellery",
       "label": "Fashion Jewellery",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "85cd"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Cuff Butterfly",
       "label": "Cuff Butterfly",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "6d29"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Designer Sun Glasses",
       "label": "Designer Sun Glasses",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d3cb"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "mastar watch",
       "label": "mastar watch",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "5f8d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Car Aux",
       "label": "Car Aux",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4549"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "W1209 DC12V",
       "label": "W1209 DC12V",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "823a"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "TC Reusable",
       "label": "TC Reusable",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "dab1"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Neon LED Light",
       "label": "Neon LED Light",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4011"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "METRO 70cc Motorcycle - MR70",
       "label": "METRO 70cc Motorcycle   MR70",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4b36"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "BRAVE BULL",
       "label": "BRAVE BULL",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d97c"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "shock absorber",
       "label": "shock absorber",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "3829"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "JIEPOLLY",
       "label": "JIEPOLLY",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "0528"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Xiangle",
       "label": "Xiangle",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "bbbc"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "lightingbrilliance",
       "label": "lightingbrilliance",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8e28"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "Ifei Home",
       "label": "Ifei Home",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "1ea0"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "DADAWU",
       "label": "DADAWU",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "346d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "YIOSI",
       "label": "YIOSI",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "006c"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     }
   ],
   "categories": [
     {
       "value": "smartphones",
       "label": "smartphones",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "7b36"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "laptops",
       "label": "laptops",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "76ce"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "fragrances",
       "label": "fragrances",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4c3d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "skincare",
       "label": "skincare",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "fc38"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "groceries",
       "label": "groceries",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "f22d"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "home-decoration",
       "label": "home decoration",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8d83"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "furniture",
       "label": "furniture",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "e689"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "tops",
       "label": "tops",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "dfaa"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "womens-dresses",
       "label": "womens dresses",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "2546"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "womens-shoes",
       "label": "womens shoes",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "2ac0"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "mens-shirts",
       "label": "mens shirts",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "3573"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "mens-shoes",
       "label": "mens shoes",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "6aa5"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "mens-watches",
       "label": "mens watches",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "b38e"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "womens-watches",
       "label": "womens watches",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "5ffe"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "womens-bags",
       "label": "womens bags",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "3d22"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "womens-jewellery",
       "label": "womens jewellery",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "0765"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "sunglasses",
       "label": "sunglasses",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "4dff"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "automotive",
       "label": "automotive",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "d41b"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "motorcycle",
       "label": "motorcycle",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "8685"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     },
     {
       "value": "lighting",
       "label": "lighting",
-<<<<<<< HEAD
-      "checked": false,
-      "id": "dd76"
-=======
       "checked": false
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     }
   ],
   "users": [
@@ -2864,55 +2374,7 @@
           "pinCode": "220001"
         }
       ],
-<<<<<<< HEAD
-      "id": "2"
-=======
       "id": 2
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
-    },
-    {
-      "id": "be10",
-      "email": "abc1001@gmail.com",
-      "password": "Bb1001@123",
-      "addresses": [
-        {
-          "name": "bipin bhardwaj2",
-          "email": "abc1001@gmail.com",
-          "city": "sfdd",
-          "state": "sdff",
-          "pinCode": "ssfdf",
-          "phone": "7865",
-          "street": "ccg"
-        }
-      ]
-<<<<<<< HEAD
-    },
-    {
-      "id": "e356",
-      "email": "abc1002@gmail.com",
-      "password": "Bb1002@123",
-      "addresses": [
-        {
-          "name": "bipin3",
-          "email": "abc1002@gmail.com",
-          "city": "vvcc",
-          "state": "mm,",
-          "pinCode": "vbnn",
-          "phone": "7889",
-          "street": "vvvvn"
-        },
-        {
-          "name": "bipin1",
-          "email": "abc1001@gmail.com",
-          "phone": "78",
-          "street": "vy",
-          "city": "bh",
-          "state": "hjiu",
-          "pinCode": "bj"
-        }
-      ]
-=======
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     }
   ],
   "cart": [
@@ -2924,7 +2386,6 @@
       "rating": 4.44,
       "stock": 34,
       "brand": "Apple",
-<<<<<<< HEAD
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       "images": [
@@ -2933,57 +2394,9 @@
         "https://i.dummyjson.com/data/products/2/3.jpg",
         "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ],
-      "quantity": 1,
-      "user": 1,
-      "id": "1"
-    },
-    {
-      "id": "c0d0",
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "discountPercentage": 17.94,
-      "rating": 4.44,
-      "stock": 34,
-      "brand": "Apple",
-=======
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-      ],
-<<<<<<< HEAD
-      "quantity": 2,
-      "user": "be10"
-    },
-    {
-      "id": "0817",
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "discountPercentage": 17.94,
-      "rating": 4.44,
-      "stock": 34,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-      ],
-      "quantity": 2,
-      "user": "be10"
-=======
       "quantity": 1,
       "user": 1,
       "id": 1
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     }
   ],
   "orders": [
@@ -3243,188 +2656,9 @@
         "city": "Banaglore",
         "state": "Karnataka",
         "pinCode": "560034"
-<<<<<<< HEAD
-      },
-      "status": "pending",
-      "id": "4"
-    },
-    {
-      "id": "e062",
-      "items": [
-        {
-          "id": "636d",
-          "title": "Infinix INBOOK",
-          "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-          "price": 1099,
-          "discountPercentage": 11.83,
-          "rating": 4.54,
-          "stock": 96,
-          "brand": "Infinix",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/9/1.jpg",
-            "https://i.dummyjson.com/data/products/9/2.png",
-            "https://i.dummyjson.com/data/products/9/3.png",
-            "https://i.dummyjson.com/data/products/9/4.jpg",
-            "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-          ],
-          "quantity": 3,
-          "user": "e356"
-        }
-      ],
-      "totalAmount": 3297,
-      "totalItems": 3,
-      "user": {
-        "id": "e356",
-        "email": "abc1002@gmail.com",
-        "password": "Bb1002@123",
-        "addresses": [
-          {
-            "name": "bipin2",
-            "email": "abc1002@gmail.com",
-            "phone": "7889",
-            "street": "vvvvn",
-            "city": "vvcc",
-            "state": "mm,",
-            "pinCode": "vbnn"
-          }
-        ]
-      },
-      "paymentMethod": "card",
-      "selectedAddress": {
-        "name": "bipin2",
-        "email": "abc1002@gmail.com",
-        "phone": "7889",
-        "street": "vvvvn",
-        "city": "vvcc",
-        "state": "mm,",
-        "pinCode": "vbnn"
-      },
-      "status": "pending"
-    },
-    {
-      "id": "426b",
-      "items": [
-        {
-          "id": "d327",
-          "title": "iPhone X",
-          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-          "price": 899,
-          "discountPercentage": 17.94,
-          "rating": 4.44,
-          "stock": 34,
-          "brand": "Apple",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
-            "https://i.dummyjson.com/data/products/2/2.jpg",
-            "https://i.dummyjson.com/data/products/2/3.jpg",
-            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-          ],
-          "quantity": 5,
-          "user": "e356"
-        }
-      ],
-      "totalAmount": 4495,
-      "totalItems": 5,
-      "user": {
-        "id": "e356",
-        "email": "abc1002@gmail.com",
-        "password": "Bb1002@123",
-        "addresses": [
-          {
-            "name": "bipin2",
-            "email": "abc1002@gmail.com",
-            "phone": "7889",
-            "street": "vvvvn",
-            "city": "vvcc",
-            "state": "mm,",
-            "pinCode": "vbnn"
-          }
-        ]
-      },
-      "paymentMethod": "cash",
-      "selectedAddress": {
-        "name": "bipin2",
-        "email": "abc1002@gmail.com",
-        "phone": "7889",
-        "street": "vvvvn",
-        "city": "vvcc",
-        "state": "mm,",
-        "pinCode": "vbnn"
-      },
-      "status": "pending"
-    },
-    {
-      "id": "5eb3",
-      "items": [
-        {
-          "id": "41e2",
-          "title": "Microsoft Surface Laptop 4",
-          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-          "price": 1499,
-          "discountPercentage": 10.23,
-          "rating": 4.43,
-          "stock": 68,
-          "brand": "Microsoft Surface",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/8/1.jpg",
-            "https://i.dummyjson.com/data/products/8/2.jpg",
-            "https://i.dummyjson.com/data/products/8/3.jpg",
-            "https://i.dummyjson.com/data/products/8/4.jpg",
-            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-          ],
-          "quantity": 1,
-          "user": "e356"
-        }
-      ],
-      "totalAmount": 1499,
-      "totalItems": 1,
-      "user": {
-        "id": "e356",
-        "email": "abc1002@gmail.com",
-        "password": "Bb1002@123",
-        "addresses": [
-          {
-            "name": "bipin3",
-            "email": "abc1002@gmail.com",
-            "city": "vvcc",
-            "state": "mm,",
-            "pinCode": "vbnn",
-            "phone": "7889",
-            "street": "vvvvn"
-          },
-          {
-            "name": "bipin1",
-            "email": "abc1001@gmail.com",
-            "phone": "78",
-            "street": "vy",
-            "city": "bh",
-            "state": "hjiu",
-            "pinCode": "bj"
-          }
-        ]
-      },
-      "paymentMethod": "card",
-      "selectedAddress": {
-        "name": "bipin3",
-        "email": "abc1002@gmail.com",
-        "city": "vvcc",
-        "state": "mm,",
-        "pinCode": "vbnn",
-        "phone": "7889",
-        "street": "vvvvn"
-      },
-      "status": "pending"
-=======
       },
       "status": "pending",
       "id": 4
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
     }
   ]
 }

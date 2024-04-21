@@ -31,7 +31,6 @@ export function checkUser(loginInfo) {
   });
 }
 
-<<<<<<< HEAD
 export function signOut(userId) {
   return new Promise(async (resolve) => {
     // TODO: on server we will remove user session info
@@ -39,5 +38,3 @@ export function signOut(userId) {
   });
 }
 
-=======
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de

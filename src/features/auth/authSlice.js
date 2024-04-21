@@ -1,9 +1,5 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
-<<<<<<< HEAD
 import { checkUser, createUser, signOut } from './authAPI';
-=======
-import { checkUser, createUser } from './authAPI';
->>>>>>> 324c37935de510ed950707d1e5aaaf17f9b9c2de
 import { updateUser } from '../user/userAPI';
 
 
