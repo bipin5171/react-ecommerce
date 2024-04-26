@@ -41,7 +41,7 @@ function classNames(...classes) {
 
 // TODO : Loading UI
 
-export default function ProductDetails() {
+export default function ProductDetail() {
   const [selectedColor, setSelectedColor] = useState(colors[0]);
   const [selectedSize, setSelectedSize] = useState(sizes[2]);
   const user = useSelector(selectLoggedInUser);
@@ -54,15 +54,13 @@ export default function ProductDetails() {
 
   const handleCart = (e) => {
     e.preventDefault();
-    if (items.findIndex((item) => item.productId === product.id) < 0) {
+    if (items.findIndex((item) => item.product.id === product.id) < 0) {
       console.log({ items, product });
       const newItem = {
-        ...product,
-        productId: product.id,
+        product: product.id,
         quantity: 1,
         user: user.id,
       };
-      delete newItem['id'];
       dispatch(addToCartAsync(newItem));
       // TODO: it will be based on server response of backend
       alert.error('Item added to Cart');
