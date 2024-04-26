@@ -1,14 +1,16 @@
-import React from 'react'
-import Navbar from '../features/navbar/Navbar';
-import ProductDetails from '../features/product/componets/ProductDetails';
+import NavBar from "../features/navbar/Navbar";
+import ProductDetails from "../features/product/componets/ProductDetails";
+import Footer from "../features/common/Footer";
+
 function ProductDetailsPage() {
-  return (
-    <div>
-      <Navbar>
-        <ProductDetails></ProductDetails>
-      </Navbar>
-    </div>
-  )
+    return ( 
+        <div>
+            <NavBar>
+                <ProductDetails></ProductDetails>
+            </NavBar>
+            <Footer></Footer>
+        </div>
+     );
 }
 
 export default ProductDetailsPage;
