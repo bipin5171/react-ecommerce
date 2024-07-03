@@ -4,14 +4,14 @@ import Home from './pages/Home';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 
-import { createBrowserRouter, Link, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, Link, RouterProvider,  } from 'react-router-dom';
 import CartPage from './pages/CartPage';
 import Checkout from './pages/Checkout';
 import ProductDetailsPage from './pages/ProductDetailsPage';
 import Protected from './features/auth/components/Protected';
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { selectLoggedInUser } from './features/auth/authSlice';
+import { checkAuthAsync, selectLoggedInUser, selectUserChecked } from './features/auth/authSlice';
 import { fetchItemsByUserIdAsync } from './features/cart/cartSlice';
 import PageNotFound from './pages/404';
 import OrderSuccessPage from './pages/OrderSuccessPage';
@@ -38,12 +38,12 @@ const router = createBrowserRouter([
     path: '/',
     element: (
       <Protected>
-        <Home></Home>
+        <Home/>
       </Protected>
     ),
   },
   {
-    path: '/admin',
+    path: '/adminf',
     element: (
       <ProtectedAdmin>
         <AdminHome></AdminHome>
@@ -59,7 +59,7 @@ const router = createBrowserRouter([
     element: <SignupPage></SignupPage>,
   },
   {
-    path: '/cart',
+    path: '/cartf',
     element: (
       <Protected>
         <CartPage></CartPage>
@@ -67,7 +67,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/checkout',
+    path: '/checkoutf',
     element: (
       <Protected>
         <Checkout></Checkout>
@@ -75,7 +75,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/product-detail/:id',
+    path: '/product-detailf/:id',
     element: (
       <Protected>
         <ProductDetailsPage></ProductDetailsPage>
@@ -83,7 +83,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/admin/product-detail/:id',
+    path: '/adminf/product-detailf/:id',
     element: (
       <ProtectedAdmin>
         <AdminProductDetailPage></AdminProductDetailPage>
@@ -91,7 +91,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/admin/product-form',
+    path: '/adminf/product-formf',
     element: (
       <ProtectedAdmin>
         <AdminProductFormPage></AdminProductFormPage>
@@ -99,7 +99,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/admin/orders',
+    path: '/adminf/ordersf',
     element: (
       <ProtectedAdmin>
         <AdminOrdersPage></AdminOrdersPage>
@@ -107,7 +107,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/admin/product-form/edit/:id',
+    path: '/adminf/product-formf/editf/:id',
     element: (
       <ProtectedAdmin>
         <AdminProductFormPage></AdminProductFormPage>
@@ -115,35 +115,35 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/order-success/:id',
+    path: '/order-successf/:id',
     element: (
       <Protected>
-        <OrderSuccessPage></OrderSuccessPage>{' '}
+        <OrderSuccessPage></OrderSuccessPage>
       </Protected>
     ),
   },
   {
-    path: '/orders',
+    path: '/ordersf',
     element: (
       <Protected>
-        <UserOrdersPage></UserOrdersPage>{' '}
+        <UserOrdersPage/>
       </Protected>
     ),
   },
   {
-    path: '/profile',
+    path: '/profilef',
     element: (
       <Protected>
-        <UserProfilePage></UserProfilePage>{' '}
+        <UserProfilePage></UserProfilePage>
       </Protected>
     ),
   },
   {
-    path: '/logout',
+    path: '/logoutf',
     element: <Logout></Logout>,
   },
   {
-    path: '/forgot-password',
+    path: '/forgot-passwordf',
     element: <ForgotPasswordPage></ForgotPasswordPage>,
   },
   {
@@ -155,8 +155,15 @@ const router = createBrowserRouter([
 function App() {
   const dispatch = useDispatch();
   const user = useSelector(selectLoggedInUser);
+  const userChecked = useSelector(selectUserChecked);
+
+
+  useEffect(()=>{
+    dispatch(checkAuthAsync())
+  },[dispatch])
 
   useEffect(() => {
+    
     if (user) {
       dispatch(fetchItemsByUserIdAsync());
        // we can get req.user by token on backend so no need to give in front-end
@@ -167,9 +174,9 @@ function App() {
   return (
     <>
       <div className="App">
-        <Provider template={AlertTemplate} {...options}>
+       { userChecked && <Provider template={AlertTemplate} {...options}>
           <RouterProvider router={router} />
-        </Provider>
+        </Provider>}
         {/* Link must be inside the Provider */}
       </div>
     </>

@@ -14,14 +14,14 @@ import { selectUserInfo } from '../user/userSlice';
 
 const navigation = [
   { name: 'Products', link: '/', user: true },
-  { name: 'Products', link: '/admin', admin: true },
-  { name: 'Orders', link: '/admin/orders', admin: true },
+  { name: 'Products', link: '/adminf', admin: true },
+  { name: 'Orders', link: '/adminf/ordersf', admin: true },
 
 ];
 const userNavigation = [
-  { name: 'My Profile', link: '/profile' },
-  { name: 'My Orders', link: '/orders' },
-  { name: 'Sign out', link: '/logout' },
+  { name: 'My Profile', link: '/profilef' },
+  { name: 'My Orders', link: '/ordersf' },
+  { name: 'Sign out', link: '/logoutf' },
 ];
 
 function classNames(...classes) {
@@ -74,7 +74,7 @@ function NavBar({ children }) {
                   </div>
                   <div className="hidden md:block">
                     <div className="ml-4 flex items-center md:ml-6">
-                      <Link to="/cart">
+                      <Link to="/cartf">
                         <button
                           type="button"
                           className="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
@@ -191,7 +191,7 @@ function NavBar({ children }) {
                         {userInfo.email}
                       </div>
                     </div>
-                    <Link to="/cart">
+                    <Link to="/cartf">
                       <button
                         type="button"
                         className="ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
